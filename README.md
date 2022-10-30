@@ -1,6 +1,7 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/Rainingraveyard"><img src="https://api.daily.dev/devcards/2b373bdb9a0848be99768768fb000d54.png?r=rkf" width="400" alt="semih sancar's Dev Card"/></a>
 
-<!--
+
 **Rainingraveyard/Rainingraveyard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
